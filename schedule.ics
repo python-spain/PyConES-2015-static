@@ -54,7 +54,7 @@ SUMMARY:Introducción a visualizaciones interactivas con Bokeh
 DTSTART:20151120T180000
 DTEND:20151120T203000
 UID:36
-DESCRIPTION:Bokeh ( http://bokeh.pydata.org/en/latest/ ) es una librería 
+DESCRIPTION:Bokeh ( https://bokeh.pydata.org/en/latest/ ) es una librería 
  de visualización de datos con una interfaz concisa y elegante que permite
   la construcción de gráficos preparados para la web y con interactividad
   out-of-the-box y sencilla.Diseña avanzados dashboards en Python para un 
@@ -244,7 +244,7 @@ SUMMARY:Introducción a visualizaciones interactivas con Bokeh
 DTSTART:20151121T123000
 DTEND:20151121T131000
 UID:12
-DESCRIPTION:Bokeh ( http://bokeh.pydata.org/en/latest/ ) es una librería 
+DESCRIPTION:Bokeh ( https://bokeh.pydata.org/en/latest/ ) es una librería 
  de visualización de datos con una interfaz concisa y elegante que permite
   la construcción de gráficos preparados para la web y con interactividad
   out-of-the-box y sencilla.Diseña avanzados dashboards en Python para un 
